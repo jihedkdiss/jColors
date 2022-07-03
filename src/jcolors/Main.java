@@ -8,6 +8,7 @@ public class Main {
         System.out.println(styles.bold("This is bold text"));
         System.out.println(styles.underline("This is underlined text"));
         System.out.println(styles.inverse("This is inversed text"));
+        System.out.println();
 
         // Foreground Colors
         System.out.println(fgColors.black("This is black text") + "(black)");
@@ -18,5 +19,17 @@ public class Main {
         System.out.println(fgColors.magenta("This is magenta text"));
         System.out.println(fgColors.cyan("This is cyan text"));
         System.out.println(fgColors.white("This is white text"));
+        System.out.println();
+
+        // Background Colors
+        System.out.println(bgColors.black("This is black text") + "(black)");
+        System.out.println(bgColors.red("This is red text"));
+        System.out.println(bgColors.green("This is green text"));
+        System.out.println(bgColors.yellow("This is yellow text"));
+        System.out.println(bgColors.blue("This is blue text"));
+        System.out.println(bgColors.magenta("This is magenta text"));
+        System.out.println(bgColors.cyan("This is cyan text"));
+        System.out.println(bgColors.white("This is white text"));
+        System.out.println();
     }
 }
