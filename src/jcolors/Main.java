@@ -12,9 +12,10 @@ public class Main {
         System.out.println(fgColorsStrong.blue(styles.underline("Developed by Jihed Kdiss")));
         System.out.println();
         System.out.println(fgColorsStrong.cyan(styles.inverse("Enter preview text (or press enter for default)")));
-        System.out.print("\u001B[96m" + ">> ");
+        inputColorsStrong.cyan();
+        System.out.print(">> ");
         String preview = input.nextLine();
-        System.out.print(fgColors.rightEscapeChar);
+        inputColorsStrong.close();
         System.out.println();
 
         if (preview.equals("")) {
