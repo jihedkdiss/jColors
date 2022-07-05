@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        jcolors.setup();
         // Introduction
         Scanner input = new Scanner(System.in);
         System.out.print(fgColorsStrong.blue("Welcome to jColors! "));
