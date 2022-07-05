@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jihedkdiss/jColors">
-    <img src="https://github.com/jihedkdiss/jColors/blob/main/Pictures/Logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/jihedkdiss/jColors/blob/main/Pictures/Logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">jColors 🎨 Library</h3>
@@ -73,6 +73,8 @@ The library is fully coded in Java and the syntax is easy to understand and very
 * Background colors: black, red, green, yellow, blue, magenta, cyan, white (+ strong variations)
 * Input colors: black, red, green, yellow, blue, magenta, cyan, white
 
+> You can try run the Main.java program to get a look at all available styles in action.
+
 ### Built With
 
 * [Java](https://www.java.com/)
@@ -132,6 +134,7 @@ To compile & run your java files using the jColors Library manually from the cmd
 
 See the [open issues](https://github.com/jihedkdiss/jColors/issues) for a list of proposed features (and known issues).
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
@@ -145,6 +148,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
@@ -161,6 +165,7 @@ Jihed Kdiss - [@jiokdiss](https://facebook.com/jiokdiss) - jihedkdiss@outlook.co
 
 Project Link: [https://github.com/jihedkdiss/jColors](https://github.com/jihedkdiss/jColors)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
