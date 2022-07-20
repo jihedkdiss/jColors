@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jihedkdiss/jColors">
-    <img src="https://github.com/jihedkdiss/jColors/blob/main/Pictures/Logo.png" alt="Logo" width="100" height="100">
+    <img src="Pictures/Logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">jColors 🎨 Library</h3>
@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![jColors Screenshot](https://raw.githubusercontent.com/jihedkdiss/jColors/main/Pictures/Screenshot.png)
+![jColors Screenshot](Pictures/Screenshot.png)
 
 <b>jColors</b> is a lightweight Java library to make printing colored output to the console super easy.
 Unlike many libraries that provide this feature but with hard syntax or limited abilities, jColors provides you with full capabilities.
